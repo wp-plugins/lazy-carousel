@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Lazy Carousel Wordpress
+ * Plugin Name: Lazy Carousel Wordpressssss
  * Plugin URI: http://raihanb.com/premium/lazy-carousel
  * Description: This plugin will enable carousel in your WordPress site.
  * Author: Abu Sayed
@@ -23,40 +23,13 @@ add_action('wp_footer','lazy_carousel_js');
 // Lazy carousel css
 function carousel_css (){ ?>
 		<style type="text/css">
-			#container {width:960px;margin:0 auto;padding-bottom:40px;height:200px!important}
-			pre.html {margin:10px 0;}
+			
 			.clear {clear:both;}
-			.entry-content ul li{height:500px;margin-bottom:50px}
-			
-
-
-			
+		
 		</style>
 <?php
 }
 add_action('wp_footer', 'carousel_css');
-
-// Active for lazy carousel
-function lazy_carousel_active (){ ?>
-		<script type="text/javascript">
-			jQuery(document).ready(function() {
-				jQuery("#example14").zAccordion({
-					tabWidth: "15%",
-					width: "100%",
-					height: "100%"
-				});
-				jQuery(window).resize(function() {
-					jQuery("#example14").height($(window).height());
-					jQuery("#example14 li").height($(window).height());
-					jQuery("#example14 img").height($(window).height());
-				});
-			});
-		</script>
-<?php
-}
-add_action('wp_footer', 'lazy_carousel_active');
-
-
 
  //  Lazy carousel custom post
 add_action( 'init', 'carousel_custom_post' );
@@ -102,25 +75,36 @@ function carousel_custom_post() {
          extract ( shortcode_atts( array(
 		 'category' =>'',		 
 		 'height' =>'',		 
-		 'posts_per_page' =>'',		 
+		 'id' =>'',		 
 
     ), $atts, 'category_post' ) );
 
       $q = new WP_Query (
-            array( 'posts_per_page' => $posts_per_page, 'post_type' => 'carousel-items', 'carousel_cat' => $category)
+            array( 'posts_per_page' => -1, 'post_type' => 'carousel-items', 'carousel_cat' => $category)
            );
   $list = '
   
+  <script type="text/javascript">
+		jQuery(document).ready(function() {
+			jQuery("#example14'.$id.'").zAccordion({
+				tabWidth: "15%",
+				width: "100%",
+				height: "100%"
+			});
+			jQuery(window).resize(function() {
+				jQuery("#example14").height($(window).height());
+				jQuery("#example14 li").height($(window).height());
+				jQuery("#example14 img").height($(window).height());
+			});
+		}); 
+  </script> 
+  
+
   <style>
-      .entry-content img, .comment-content img, .widget img, img.header-image, .author-avatar img, img.wp-post-image {
-			  border-radius: 3px;
-			  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
-			  height:'.$height.';
-			}
+    .lazy_carousel img{height:'.$height.'!important;margin:0px}
   </style>
   
-  
-  <ul id="example14">';
+  <ul id="example14'.$id.'" class="lazy_carousel">';
 
   while ($q->have_posts() ) : $q->the_post ();
 
