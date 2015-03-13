@@ -15,7 +15,7 @@ Lazy carousel is an really nice carousel, super lightweight plugin for your word
 Wordpress lazy carousel is customizable and jQuery plugin for your WordPress website. By this plugin you can customize your carousel. And you can embed lazy carousel in a single content via shortcode in everywhere you want, even in theme files.
 
 #### * Lazy Carosel by <a href="http://www.freeurltracker.com/redirect.php?u=plugime&p=17375">plugime.com</a>
-* [See the Live demo!&raquo;](http://demo.plugime.com/lazy-carousel)
+* [See the Live demo!&raquo;](http://raihanb.com/premium/lazy-carousel-and-slider/)
 
 
 &nbsp;
