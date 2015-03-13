@@ -38,7 +38,7 @@ Wordpress lazy carousel is customizable and jQuery plugin for your WordPress web
 15. Seo Friendly
 16. Works with every version of wordpress 
 
-<p style="font-style:italic">Where you want pretty carousel ? just copy the shortcode (&nbsp;[carousel ]&nbsp;) and paste where you want the pretty carousel. If you want to category post create a category name please go to "Carousel Category" under Lazy Carousel custom post then copy this shortcode (&nbsp; [carousel category="category name here"] &nbsp; ) and paste where you want. If you want to lotmore carousel on a page give a unique id in shortcode like [carousel id="1"], &nbsp; [carousel id="2"], &nbsp; [carousel id="3"]</p>
+<p style="font-style:italic">Where you want lazy carousel ? just copy the shortcode (&nbsp;[carousel ]&nbsp;) and paste where you want. If you want to category post create a category name please go to "Carousel Category" under Lazy Carousel custom post then copy this shortcode (&nbsp; [carousel category="category name here"] &nbsp; ) and paste where you want. If you want to lotmore carousel on a page give a unique id in shortcode like [carousel id="1"], &nbsp; [carousel id="2"], &nbsp; [carousel id="3"]</p>
 
 <strong>You can use by shortcode.</strong> <br>
 <strong>1. Default carousel with id (Give unique id)</strong>
