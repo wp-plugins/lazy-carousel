@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Lazy carousel is an really nice carousel, super lightweight plugin for your wordpress website.
 
 == Description ==
-
+"Two in one" yes you will get carousel & slider both. You can use this plugin carousel also slider. For this your website would be combination.
 Wordpress lazy carousel is customizable and jQuery plugin for your WordPress website. By this plugin you can customize your carousel. And you can embed lazy carousel in a single content via shortcode in everywhere you want, even in theme files.
 
 #### * Lazy Carosel by <a href="http://www.freeurltracker.com/redirect.php?u=plugime&p=17375">plugime.com</a>
