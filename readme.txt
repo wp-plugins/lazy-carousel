@@ -18,6 +18,7 @@ Wordpress lazy carousel is customizable and jQuery plugin for your WordPress web
 * [See the Live demo!&raquo;](http://raihanb.com/premium/lazy-carousel-and-slider/)
 
 
+
 &nbsp;
 
 ### Plugin Features:-
@@ -75,9 +76,7 @@ Yes, We always ready to assist you :). Please visit <a href="http://plugime.com/
 
 
 == Screenshots ==
-1. First style.
-2. Second style
-3. admin-panel-one
+1. screenshot-1
 
 
 
