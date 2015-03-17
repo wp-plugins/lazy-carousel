@@ -16,7 +16,7 @@ Wordpress lazy carousel is customizable and jQuery plugin for your WordPress web
 
 #### * Lazy Carosel by <a href="http://www.freeurltracker.com/redirect.php?u=plugime&p=17375">plugime.com</a>
 * [See the Live demo!&raquo;](http://raihanb.com/premium/lazy-carousel-and-slider/)
-
+* [Watch video Tutorial!&raquo;](https://www.youtube.com/watch?v=eNK8FnMKnrg)
 
 
 &nbsp;
@@ -54,7 +54,7 @@ Wordpress lazy carousel is customizable and jQuery plugin for your WordPress web
 <strong>4. Custom height </strong>
 <pre>[carousel  height="Carousel_height_here" id="4"]</pre>
 
-<strong style="text-align:center">See the video how to work</strong> <br>
+<strong>See the video how to work</strong> <br>
 https://www.youtube.com/watch?v=eNK8FnMKnrg
 
 
