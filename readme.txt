@@ -54,7 +54,7 @@ Wordpress lazy carousel is customizable and jQuery plugin for your WordPress web
 <strong>4. Custom height </strong>
 <pre>[carousel  height="Carousel_height_here" id="4"]</pre>
 
-See the video how to work <br>
+<strong style="text-align:center">See the video how to work</strong> <br>
 https://www.youtube.com/watch?v=eNK8FnMKnrg
 
 
