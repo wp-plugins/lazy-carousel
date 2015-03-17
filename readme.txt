@@ -1,5 +1,5 @@
 === Lazy Carousel Wordpress ===
-Tags:Carousel,Slider,Awesome carousel,jQuery carousel,Effect carousel,Nice carousel
+Tags:Carousel,Slider,Awesome carousel,jQuery carousel,Effect carousel,Nice carousel,advance post slider, any post type slider, banner rotator, best post slider, best posts content slider, caroufredsel, carousel, carousel slider, company logo slider, custom post type, custom post type slider, featured image carousel, featured image slider, featured posts slider, Horizontal content slider, Horizontal posts content slider, Horizontal WordPress Slider, Image Horizontal Slider, image ticker, logo scroller, most viewed posts, newest posts slider, news slider, page, page carousel, pages content slider, pages slider, portfolio slider, Post, post carousel, post content slider, post slider, post type slider, post-page slider, posts carousel, posts content slider, posts slider, recent post slider, related posts, related posts carousel, related posts slider, responsive carousel, responsive page slider, responsive post slider, responsive posts content slider, slider, testimonial scroller, thumbnail, thumbnail Image, vertical slider, WordPress Horizontal Posts slider, wordpress post slider, wordpress slider, wp post slider, wp slider
 
 Requires at least: 3.0.1
 Tested up to: 4.1
