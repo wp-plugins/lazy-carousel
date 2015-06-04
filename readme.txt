@@ -14,9 +14,8 @@ Lazy carousel is an really nice carousel, super lightweight plugin for your word
 "Two in one" yes you will get carousel & slider both. You can use this plugin carousel also slider. For this your website would be combination.
 Wordpress lazy carousel is customizable and jQuery plugin for your WordPress website. By this plugin you can customize your carousel. And you can embed lazy carousel in a single content via shortcode in everywhere you want, even in theme files.
 
-#### * Lazy Carosel by <a href="http://www.freeurltracker.com/redirect.php?u=plugime&p=17375">plugime.com</a>
-* [See the Live demo!&raquo;](http://raihanb.com/premium/lazy-carousel-and-slider/)
-* [Watch video Tutorial!&raquo;](https://www.youtube.com/watch?v=eNK8FnMKnrg)
+* [See the Live demo!&raquo;](http://adf.ly/1IHZ52)
+* [Watch video Tutorial!&raquo;](http://adf.ly/1IHZ8K)
 
 
 &nbsp;
