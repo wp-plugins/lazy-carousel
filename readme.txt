@@ -7,7 +7,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-
+WE ASSURE THAT THIS PLUGIN IS AWESOME AWESOME AND AWESOME. YOU CAN USE THIS PLUGIN SLIDER AND CAROUSEL BOTH
 Lazy carousel is an really nice carousel, super lightweight plugin for your wordpress website.
 
 == Description ==
